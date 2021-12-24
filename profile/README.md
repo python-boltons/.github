@@ -5,8 +5,8 @@ modern approach to solving the same problem.  Namely, while we strive to adhere
 utilize separate GitHub repositories and separate PyPI packages for each
 cohesive set of library utilities.
 
-The original project's architecture statement can be found [here][2]. We
-summarize the project's design tenets below:
+The original project's architecture statement can be found [here][2]; we
+summarize the design tenets found on that page below:
 
 1. Be pure-Python and as self-contained as possible.
 1. Perform a common task or fulfill a common role.
