@@ -3,8 +3,10 @@ Inspired by the original [gh:mahmoud/boltons][1] GitHub repository /
 modern approach to solving the same problem.  Namely, while we strive to adhere
 (more-or-less) to the design tenets of the original project, we choose to
 utilize separate GitHub repositories and separate PyPI packages for each
-cohesive set of library utilities. These original design tenets can be found
-[here][2] and are summarized below:
+cohesive set of library utilities.
+
+The original project's architecture statement can be found [here][2]. We
+summarize the project's design tenets below:
 
 1. Be pure-Python and as self-contained as possible.
 1. Perform a common task or fulfill a common role.
@@ -17,5 +19,5 @@ cohesive set of library utilities. These original design tenets can be found
    that provide further capabilities.
 
 [1]: https://github.com/mahmoud/boltons
-[2]: https://boltons.readthedocs.io/en/latest/architecture.html#design-of-a-bolton
+[2]: https://boltons.readthedocs.io/en/latest/architecture.html
 [3]: https://pypi.org/project/boltons/
