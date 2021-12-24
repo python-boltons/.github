@@ -1,6 +1,6 @@
-Inspired by the original [gh:mahmoud/boltons][1] GitHub repository / [boltons
-PyPI package][3] (founded ~10 years ago), this organization takes a modern
-approach to solving the same problem.  Namely, while we strive to adhere
+Inspired by the original [gh:mahmoud/boltons][1] GitHub repository /
+[boltons][3] PyPI package (founded ~10 years ago), this organization takes a
+modern approach to solving the same problem.  Namely, while we strive to adhere
 (more-or-less) to the design tenets of the original project, we choose to
 utilize separate GitHub repositories and separate PyPI packages for each
 cohesive set of library utilities. These original design tenets can be found
