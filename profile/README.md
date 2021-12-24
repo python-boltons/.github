@@ -1,10 +1,10 @@
-Inspired by the original [gh:mahmoud/boltons][1] repository / [boltons PyPI
-package][3] (founded ~10 years ago), this organization takes a modern approach
-to solving the same problem.  Namely, while we strive to adhere (more-or-less)
-to the design tenets of the original project, we choose to utilize separate
-GitHub repositories and separate PyPI packages for each cohesive set of library
-utilities. These original design tenets can be found [here][2] and are
-summarized below:
+Inspired by the original [gh:mahmoud/boltons][1] GitHub repository / [boltons
+PyPI package][3] (founded ~10 years ago), this organization takes a modern
+approach to solving the same problem.  Namely, while we strive to adhere
+(more-or-less) to the design tenets of the original project, we choose to
+utilize separate GitHub repositories and separate PyPI packages for each
+cohesive set of library utilities. These original design tenets can be found
+[here][2] and are summarized below:
 
 1. Be pure-Python and as self-contained as possible.
 1. Perform a common task or fulfill a common role.
