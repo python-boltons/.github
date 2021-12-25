@@ -18,8 +18,8 @@ summarize the design tenets found on that page below:
    relevant standard library functionality, as well as any 3rd-party packages
    that provide further capabilities.
 
-Here is another telling quote taken the original boltons project's Architecture
-document:
+Here is another telling quote taken from the original boltons project's
+Architecture document:
 
 > The larger the problem solved, the less likely the functionality is suitable
 > for inclusion in boltons; boltons are fundamental and self-contained, not
