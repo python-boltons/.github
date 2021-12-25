@@ -31,7 +31,7 @@ Moreover, we largely support the statement quoted above as a whole. With that
 said, one of the benefits of breaking each bolton out into its own repository
 is that it makes it easier to scale these utility libraries to higher levels of
 abstractions; we shall allow this to occur organically and will not cripple
-library growth for the sake of keeping the library "small".
+library growth for the sake of keeping all libraries "small".
 
 For more information on the design of this organization, refer to the documents
 in this organization's [design][4] repo, which we consider to be mandatory
