@@ -6,7 +6,7 @@ GitHub repositories and separate PyPI packages for each cohesive set of library
 utilities.
 
 The original project's architecture statement can be found [here][2]; we
-summarize the design tenets found on that page below:
+summarize the design guidelines found on that page below:
 
 1. Be pure-Python and as self-contained as possible.
 1. Perform a common task or fulfill a common role.
