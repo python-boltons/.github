@@ -26,10 +26,10 @@ Architecture document:
 > sweeping and architecture-defining.
 
 In the python-boltons (AKA "big boltons") organization, we still believe that
-every bolton in this organization should be _fundamental and self-contained_.
-Moreover, we largely support the statement quoted above as a whole. With that
-said, one of the benefits of breaking each bolton out into its own repository
-is that it makes it easier to scale these utility libraries to higher levels of
+every bolton should be **fundamental and self-contained**.  Moreover, we
+largely support the statement quoted above as a whole. With that said, one of
+the benefits of breaking each bolton out into its own repository is that it
+makes it easier to scale these utility libraries to higher levels of
 abstractions; we shall allow this to occur organically and will not cripple
 library growth for the sake of keeping all libraries "small".
 
